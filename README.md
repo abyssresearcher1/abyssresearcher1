@@ -1,7 +1,10 @@
-[![Header](https://github.com/abyssresearcher1/abyssresearcher1/blob/main/assets/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)(https://www.instagram.com/akylka___/)
+[![Header]()(https://www.instagram.com/akylka___/)
 
-## I'm a beginner Front-end developer
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
+I'm beginner Front-end developer
+
+    
 Languages and Tools
 
 Follow me
