@@ -1,8 +1,6 @@
-[![Header](https://github.com/abyssresearcher1/abyssresearcher1/blob/main/assets/ricardo-braga-typing.gif?raw=true)(https://www.instagram.com/akylka___/)
+[![Header](https://github.com/abyssresearcher1/abyssresearcher1/blob/main/assets/ricardo-braga-typing.gif?raw=true)
 
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
-
-I'm beginner Front-end developer
+## My name is Akyl, and I'm a beginner front-end developer
 
 Languages and Tools
 
